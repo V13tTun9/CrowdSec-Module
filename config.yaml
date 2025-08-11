@@ -1,6 +1,6 @@
-interface: "ens33"
+interface: "[card mạng muốn chặn]"
 map_name: "banlist"
 
 crowdsec:
   lapi_url: "http://127.0.0.1:8080"                          # Local API CrowdSec
-  api_key: "API Key của máy"     # API key của bouncer
+  api_key: "[API Key của máy]"     # API key của bouncer

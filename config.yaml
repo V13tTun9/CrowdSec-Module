@@ -1,0 +1,6 @@
+interface: "ens33"
+map_name: "banlist"
+
+crowdsec:
+  lapi_url: "http://127.0.0.1:8080"                          # Local API CrowdSec
+  api_key: "4iBed1EQMRgKwg+5RwfpHkKIGAd8nmmkjIew0vnXOWo"     # API key của bouncer
